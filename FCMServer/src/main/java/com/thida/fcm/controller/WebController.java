@@ -16,7 +16,6 @@ import com.thida.fcm.service.PushNotificationService;
 
 @RestController
 public class WebController {
-	
 	private final String TOPIC = "JavaSampleApproach";
 	  
 	  @Autowired
